@@ -29,7 +29,7 @@ We provide pretrained checkpoints. You can download pretrained models from [Baid
 
 ### Sampling parameters
 
-We provide Phi of with different rate. You can download the model  from [Baidu Drive](https://pan.baidu.com/s/1QCcOYA8HQrF_yrbMhajZ8Q). key number is "ue4g"
+We provide Phi with different rate. You can download the model  from [Baidu Drive](https://pan.baidu.com/s/1QCcOYA8HQrF_yrbMhajZ8Q). key number is "ue4g"
 ## Other Related Projects
   * Homotopic Gradients of Generative Density Priors for MR Image Reconstruction  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2008.06284)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HGGDP)
