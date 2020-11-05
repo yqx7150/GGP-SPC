@@ -21,7 +21,7 @@ python3.5 demo_ggp.py --model ggp --exe GGP_EXE --config ggp.yml --doc cifar3ch 
 
 **Poster at the conference "computational imaging technology and Applications"**
 
-![post](F:\xingjl_spc\Poster.Jpeg)
+![post](https://github.com/yqx7150/GGP-SPC/blob/main/ggp_spc/Poster.Jpeg)
 
 ### Checkpoints
 
