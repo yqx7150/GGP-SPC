@@ -19,11 +19,6 @@ Reconstruction of signals from compressively sensed measurements is an ill-posed
 
 `python3.5 demo_ggp.py --model ggp --exe GGP_EXE --config ggp.yml --doc cifar3ch --test --image_folder result`
 
-
-<p align="center"> <b> Poster at the conference "computational imaging technology and Applications" </b> </p>
-
-![post](https://github.com/yqx7150/GGP-SPC/blob/main/ggp_spc/Poster.Jpeg)
-
 ### Checkpoints
 
 We provide pretrained checkpoints. You can download pretrained models from [Baidu Drive](https://pan.baidu.com/s/13FQCLDPI8lQ7awAAPrtF5w). key number is "ovid"
@@ -37,5 +32,14 @@ We provide Phi with different rate. You can download the model  from [Baidu Driv
 
   * Progressive Colorization via Interative Generative Models  
 [<font size=5>**[Code]**</font>](https://github.com/yqx7150/iGM)  
+
+
+
+
+<p align="center"> <b> Poster at the conference "computational imaging technology and Applications" </b> </p>
+
+![post](https://github.com/yqx7150/GGP-SPC/blob/main/ggp_spc/Poster.Jpeg)
+
+
 
  
