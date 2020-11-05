@@ -20,7 +20,7 @@ Reconstruction of signals from compressively sensed measurements is an ill-posed
 `python3.5 demo_ggp.py --model ggp --exe GGP_EXE --config ggp.yml --doc cifar3ch --test --image_folder result`
 
 
-### Poster at the conference "computational imaging technology and Applications"
+<p align="center"> Poster at the conference "computational imaging technology and Applications" </p>
 
 ![post](https://github.com/yqx7150/GGP-SPC/blob/main/ggp_spc/Poster.Jpeg)
 
