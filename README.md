@@ -26,20 +26,22 @@ We provide pretrained checkpoints. You can download pretrained models from [Baid
 ### Sampling parameters
 
 We provide Phi with different rate. You can download the model  from [Baidu Drive](https://pan.baidu.com/s/1QCcOYA8HQrF_yrbMhajZ8Q). key number is "ue4g"
-### Other Related Projects
-  * Homotopic Gradients of Generative Density Priors for MR Image Reconstruction  
-[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2008.06284)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HGGDP)
 
-  * Progressive Colorization via Interative Generative Models  
-[<font size=5>**[Code]**</font>](https://github.com/yqx7150/iGM)  
-
-
-
+### Poster at the conference "computational imaging technology and Applications"
 
 <p align="center"> <b> Poster at the conference "computational imaging technology and Applications" </b> </p>
 
 ![post](https://github.com/yqx7150/GGP-SPC/blob/main/ggp_spc/Poster.Jpeg)
 
 
+### Other Related Projects
 
+  * Homotopic Gradients of Generative Density Priors for MR Image Reconstruction  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2008.06284)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HGGDP)
+
+  * REDAEP: Robust and Enhanced Denoising Autoencoding Prior for Sparse-View CT Reconstruction  
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/9076295)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/REDAEP)
+
+  * Progressive Colorization via Interative Generative Models  
+[<font size=5>**[Code]**</font>](https://github.com/yqx7150/iGM)  
  
