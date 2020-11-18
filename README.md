@@ -39,10 +39,7 @@ We provide Phi with different rate. You can download the model  from [Baidu Driv
   * Homotopic Gradients of Generative Density Priors for MR Image Reconstruction  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2008.06284)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HGGDP)
 
-  * REDAEP: Robust and Enhanced Denoising Autoencoding Prior for Sparse-View CT Reconstruction  
-[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/9076295)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/REDAEP)
-  
-* Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model  
+ * Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2009.12760)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EASEL)
 
 * Progressive Colorization via Interative Generative Models  
